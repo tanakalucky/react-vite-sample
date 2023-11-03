@@ -1,0 +1,6 @@
+{
+  "Parameters": {
+    "SourceBucketName": "react-vite-sample-source-bucket",
+    "DestributionName": "react-vite-sample-destribution"
+  }
+}

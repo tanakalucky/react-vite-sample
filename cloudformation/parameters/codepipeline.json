@@ -1,0 +1,9 @@
+{
+  "Parameters": {
+    "CodePipeLineName": "react-vite-sample-pipeline",
+    "ArtifactBucketName": "react-vite-sample-pipeline-artifact-store",
+    "EventBridgeName": "react-vite-sample-eventbridge-pipeline",
+    "EventBridgeRoleName": "react-vite-sample-eventbridge-role",
+    "EventBridgePolicyName": "react-vite-sample-eventbridge-policy"
+  }
+}
